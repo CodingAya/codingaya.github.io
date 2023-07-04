@@ -25,9 +25,6 @@ tools:
   - item: MongoDB
 
 design:
-  - item: Sketch
-  - item: InDesign
-  - item: InVision
-  - item: Prototyping
-  - item: Wireframing
-  - item: User Testing
+  - item: Figma
+  - item: Canva
+
