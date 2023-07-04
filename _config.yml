@@ -5,17 +5,13 @@ description: a creative Computer Science and Microelectronics engineering studen
 url: https://codingaya.github.io/
 baseurl: ''
 email: aya.eljanoussi@gmail.com
-cover: https://bchiang7.github.io/img/og.png
-logo: https://bchiang7.github.io/img/emojis/technologist.png
-resume: https://bchiang7.github.io/resume.pdf
+cover: https://codingaya.github.io/img/opening.png
+logo: https://codingaya.github.io/img/emojis/technologist.png
+resume: https://codingaya.github.io/resume.pdf
 social:
   - title: email
     url: mailto:aya.eljanoussi@gmail.com
-  - title: twitter
-    url: https://twitter.com/bchiang7
-  - title: instagram
-    url: https://instagram.com/bchiang7
-  - title: Medium
+  - title: medium
     url: https://medium.com/@ayaeljanoussi
   - title: github
     url: https://github.com/codingaya
