@@ -22,7 +22,7 @@ tools:
   - item: Git & Github
   - item: Docker
   - item: VMWare/VirtualBox
-  - item: 
+  - item: Jenkins
 
 design:
   - item: Figma
