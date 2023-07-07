@@ -1,28 +1,28 @@
 languages:
-  - item: JavaScript (ES6)
-  - item: TypeScript
-  - item: HTML
-  - item: CSS/Sass
   - item: Python
   - item: SQL
-  - item: R
+  - item: C++
+  - item: C
+  - item: Java
+  - item: Matlab
+  - item: JavaScript
 
 frameworks:
-  - item: Ember & Glimmer
-  - item: React
-  - item: Jekyll
-  - item: Node
-  - item: D3
-  - item: Wordpress
-  - item: Timber
+  - item: Tensorflow
+  - item: Keras
+  - item: Scikit-Learn
+  - item: Streamlit
+  - item: Hadoop
+  - item: Django
+  - item: Flutter
 
 tools:
-  - item: Bash
+  - item: Amazon SageMaker
+  - item: Azure Cloud
   - item: Git & Github
-  - item: Gulp & Grunt
-  - item: Chrome DevTools
-  - item: Postman
-  - item: MongoDB
+  - item: Docker
+  - item: VMWare/VirtualBox
+  - item: 
 
 design:
   - item: Figma
