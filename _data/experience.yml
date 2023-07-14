@@ -2,9 +2,14 @@
   url: https://wizwedge.com/
   time: Mar 2023 - Jun 2023
   position: Software Engineer (Industrial Project of EMSE)
+  description: Designed an intuitive user interface for the application using Figma in alignment with the Brand Color Palette of the company.
+   Co-developed the responsive mobile application compatible with both Android and iOS platforms using Flutter.
+   Implemented XGBoost model to detect risk injury based on the biomechanical data of the runner with a 96% accuracy.
+   Utilized PostgreSQL, integrated Django to handle data management, and deployed the application on Microsoft Azure.
 
 - company: Green Energy Park
   url: https://www.greenenergypark.ma/
   time: Jun 2022 - Aug 2022
   position: Machine Learning Intern
-
+  description: Set up Home Assistant adds-on (InfluxDb, NodeRed, Grafana) and Zigbee Home Automation Integration. 
+   Implemented Random Forest model using sensor fusion’s weighted average technique with an accuracy of 88%
