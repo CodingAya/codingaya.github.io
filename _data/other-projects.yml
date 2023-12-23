@@ -1,22 +1,83 @@
-- name: Speech Recognition and Summarization with HuggingFace transformers
-  url: https://github.com/CodingAya/Speech-Recognition-and-Summarization/blob/main/Speech%20Recognition%20with%20Vosk%20and%20Summarization%20with%20HuggingFace%20transformers.ipynb
-  code: https://github.com/CodingAya/Speech-Recognition-and-Summarization
-  description: This project aims to recognize speech in MP3 audio files, generate a transcript and summarize it. It might be useful to generate summarises of lectures or recordings. 
+- name: Fraud detection
+  url: 
+  code: 
+  description: This project aimed to detect fraudulent transactions to reinforce credit card security.
   used:
-    - thing: Vosk
-    - thing: Pydub
+    - thing: Random forest
+    - thing: PCA
+    - thing: Feature Engineering
+    - thing: Anomaly Detection
+    - thing: Precision recall Analysis
+
+- name: Tweet Sentiment Analysis
+  url: https://sentiment-analysis-nlp.streamlit.app/
+  code: 
+  description: In this project, I designed a Streamlit Web App for NLP sentiment analysis of text data using HuggingFace transformers pipeline. I used BERT model and I fine-tuned for the specific context of Tweet Sentiment Analysis.
+  used:
+    - thing: NLP
+    - thing: BERT
+    - thing: Streamlit
+    - thing: Docker
     - thing: Transformers
-    - thing: Subprocess
+
+- name: Churn Analysis
+  url: https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_BFyhtfadvh522hzwp_1689532931065_completion_certificate.pdf
+  code: 
+  description: This project was part of BCG's Data Science Virtual Experience Program. It aimed to predict customer leaving rates and creating dashboards to visualize customer consumption.
+  used:
+    - thing: Python
+    - thing: Pandas
+    - thing: Numpy
+    - thing: Matplotlib 
+    - thing: Seaborn 
+    - thing: Reporting  
+    - thing: Synthesis   
+
+- name: Pollution indices integration in Flutter app using REST API 
+  url: 
+  code: 
+  description: This project aimed to integrate and display pollution indices of Ile-de-France in Flutter app using REST API. 
+  used:
+    - thing: REST API
+    - thing: Flutter
     - thing: JSON
 
-- name: NLP Sentiment Analysis Web App
-  url: https://github.com/CodingAya/Sentiment-Analysis-NLP/blob/main/application.py
-  code: https://github.com/CodingAya/Sentiment-Analysis-NLP
-  description: This web App aims to analyse text data, if it's "negative", "positive" or "neutral".
+- name: Backend of EventNearMe app
+  url: 
+  code: 
+  description: This project aimed to develop the backend of EventNearMe Android App using NestJS. 
+  used:
+    - thing: TypeScript
+    - thing: NodeJS
+    - thing: NestJS
+    - thing: Postman
+
+- name: Speech Recognition and Summarization with Transformers
+  url: 
+  code: 
+  description: This project aimed to recognize speech in MP3 audio files, generate a transcript and summarize it. It is useful to generate summarises of lectures or recordings. 
   used:
     - thing: Transformers
-    - thing: Streamlit
+    - thing: JSON
+    - thing: Vosk
+    - thing: Pydub
+
+
+- name: Brain tumor detection with CNN
+  url: 
+  code: 
+  description: This project aimed to detect Brain tumor on MRI images using CNN. 
+  used:
+    - thing: Keras
+    - thing: Numpy
     - thing: Pandas
+    - thing: Matplotlib
+
+    
 
 
 
+
+
+
+ 
