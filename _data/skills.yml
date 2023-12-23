@@ -1,30 +1,39 @@
 languages:
   - item: Python
   - item: SQL
-  - item: C++
-  - item: C
+  - item: C++/C
+  - item: JavaScript 
+  - item: TypeScript
   - item: Java
-  - item: Matlab
-  - item: JavaScript
+  - item: HTML
+  - item: CSS
+
 
 frameworks:
   - item: Tensorflow
+  - item: PyTorch
   - item: Keras
   - item: Scikit-Learn
   - item: Streamlit
-  - item: Hadoop
-  - item: Django
-  - item: Flutter
+  - item: FastAPI
+
+
+data visualization:
+  - item: Tableau
+  - item: PowerBI
+  - item: QlikView
+
 
 tools:
-  - item: Amazon SageMaker
-  - item: Azure Cloud
-  - item: Git & Github
+  - item: Excel
+  - item: Jupyter Notebook
+  - item: Microsoft Azure
+  - item: Git & GitLab
   - item: Docker
   - item: VMWare/VirtualBox
-  - item: Jenkins
+  - item: Matlab
 
-design:
-  - item: Figma
-  - item: Canva
+
+
+
 
