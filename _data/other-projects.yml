@@ -9,7 +9,7 @@
     - thing: Precision recall Analysis
 
 - name: Tweet Sentiment Analysis
-  url: https://sentiment-analysis-nlp.streamlit.app/
+  url: https://sentiment-analysis-nlp.streamlit.app/      
 
   description: In this project, I designed a Streamlit Web App for NLP sentiment analysis of text data using HuggingFace transformers pipeline. I used BERT model and I fine-tuned for the specific context of Tweet Sentiment Analysis.
   used:
@@ -41,6 +41,7 @@
     - thing: JSON
 
 - name: Seattle Air BnB data Dashboard in Tableau
+  url: https://public.tableau.com/app/profile/aya.el.janoussi/viz/AirBnBProject_16910020838980/Tableaudebord1
 
   description: This project aimed to create a user-friendly dashboard in Tableau to visualize AirBnB data from Seattle for the year 2016.
   used:
