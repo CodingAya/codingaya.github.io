@@ -18,7 +18,7 @@ frameworks:
   - item: FastAPI
 
 
-data visualization:
+datavisualization:
   - item: Tableau
   - item: PowerBI
   - item: QlikView
